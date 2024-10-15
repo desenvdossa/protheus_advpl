@@ -1,3 +1,6 @@
+#include "TOTVS.CH"
+
+
 User Function NOMEFUNCAO()
     local cAlias := "[Alias da tabela criada]"
     local cTitulo := "[Titulo da tabela criada]"
